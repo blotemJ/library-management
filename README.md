@@ -103,7 +103,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 4. 联系:定制开发各种软件系统网站app等等
 
-   ![2.png](pic/2.jpg)
+   ![2.png](2.jpg)
 
    定制python、java、c、c++、app、html、计算机相关作业、软件网站代写指导帮忙、电脑提速优化 请私信公号中提醒联系协商时间等
 
